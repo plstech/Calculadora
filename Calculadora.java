@@ -287,7 +287,7 @@ public class Calculadora {
 		JButton btnSobre = new JButton("Sobre");
 		btnSobre.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				JOptionPane.showMessageDialog(null, "Created by: Pedro Lucas Miranda(pedrodev.c)\nInstagram:");
+				JOptionPane.showMessageDialog(null, "Created by: Pedro Lucas Miranda(pedrodev.c)\nInstagram:plcsec");
 			}
 		});
 		btnSobre.setForeground(new Color(255, 255, 255));
